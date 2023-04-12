@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 # 💫 About Me:
 
 - 🔭 I'm currently learning full-stack web development with devmountain and Hackbright Academy, sponsored by Perficient.<br>
@@ -21,6 +20,3 @@
 [![](https://visitcount.itsvg.in/api?id=sohostory&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
--->
-
