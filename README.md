@@ -2,9 +2,10 @@
 
 # 💫 About Me:
 
-- 🔭 I'm currently learning full-stack web development with devmountain and Hackbright Academy, sponsored by Perficient.<br>
-- 🌱 I’m currently learning React and Node.js.
-- ⚡ Fun fact: I am a recovering accountant and commercial photographer. I am in the process of mastering Texas BBQ in my backyard.
+- 🌐 Graduated from a full-stack web development program at DevMountain & Hackbright Academy, sponsored by Perficient.<br>
+- 🚀 Currently diving deep into React and Node.js, crafting web experiences.
+- 📸 Former accountant and commercial photographer turned coding enthusiast.
+- 🍖 On a delicious quest to master the art of Texas BBQ in my backyard. Currently, perfecting pork belly, mixing Texas and Korea.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sohostory) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hoyounglee) 
